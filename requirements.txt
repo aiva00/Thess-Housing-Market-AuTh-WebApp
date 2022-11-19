@@ -13,4 +13,3 @@ shap==0.41.0
 matplotlib==3.5.2
 plotly==5.9.0
 streamlit_option_menu==0.3.2
-bson==0.5.10
